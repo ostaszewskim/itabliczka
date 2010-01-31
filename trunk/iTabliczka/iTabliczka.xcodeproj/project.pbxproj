@@ -15,6 +15,8 @@
 		2899E5220DE3E06400AC0155 /* iTabliczkaViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* iTabliczkaViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* iTabliczkaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* iTabliczkaViewController.m */; };
+		85E0A4A611155A0D00C1DF83 /* Tabliczka_Mnozenia.m in Sources */ = {isa = PBXBuildFile; fileRef = 85E0A4A511155A0D00C1DF83 /* Tabliczka_Mnozenia.m */; };
+		85E0A4EE11155E0600C1DF83 /* Tabliczka_Mnozenia.m_1.xcclassmodel in Resources */ = {isa = PBXBuildFile; fileRef = 85E0A4ED11155E0600C1DF83 /* Tabliczka_Mnozenia.m_1.xcclassmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,9 @@
 		28D7ACF70DDB3853001CB0EB /* iTabliczkaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iTabliczkaViewController.m; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* iTabliczka_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iTabliczka_Prefix.pch; sourceTree = "<group>"; };
+		85E0A4A411155A0D00C1DF83 /* Tabliczka_Mnozenia.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tabliczka_Mnozenia.h; sourceTree = "<group>"; };
+		85E0A4A511155A0D00C1DF83 /* Tabliczka_Mnozenia.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Tabliczka_Mnozenia.m; sourceTree = "<group>"; };
+		85E0A4ED11155E0600C1DF83 /* Tabliczka_Mnozenia.m_1.xcclassmodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcclassmodel; path = Tabliczka_Mnozenia.m_1.xcclassmodel; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* iTabliczka-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iTabliczka-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,6 +59,8 @@
 				1D3623250D0F684500981E51 /* iTabliczkaAppDelegate.m */,
 				28D7ACF60DDB3853001CB0EB /* iTabliczkaViewController.h */,
 				28D7ACF70DDB3853001CB0EB /* iTabliczkaViewController.m */,
+				85E0A4A411155A0D00C1DF83 /* Tabliczka_Mnozenia.h */,
+				85E0A4A511155A0D00C1DF83 /* Tabliczka_Mnozenia.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -91,6 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				2899E5210DE3E06400AC0155 /* iTabliczkaViewController.xib */,
+				85E0A4ED11155E0600C1DF83 /* Tabliczka_Mnozenia.m_1.xcclassmodel */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* iTabliczka-Info.plist */,
 			);
@@ -151,6 +159,7 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* iTabliczkaViewController.xib in Resources */,
+				85E0A4EE11155E0600C1DF83 /* Tabliczka_Mnozenia.m_1.xcclassmodel in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -164,6 +173,7 @@
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* iTabliczkaAppDelegate.m in Sources */,
 				28D7ACF80DDB3853001CB0EB /* iTabliczkaViewController.m in Sources */,
+				85E0A4A611155A0D00C1DF83 /* Tabliczka_Mnozenia.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

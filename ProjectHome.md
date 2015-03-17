@@ -1,0 +1,1 @@
+Tabliczka mnożenia dla iPhone'a
